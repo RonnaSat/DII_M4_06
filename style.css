@@ -1,11 +1,16 @@
-.card>img , for-showproduct{
+.card>img{
     margin: 0.8rem;
     padding: 0.8rem;
     height: 20vh;
     object-fit: contain;
-   }
-   .text-color-black{
-       color: black;
-   }
+}
 
-   
+.text-color-black {
+    color: black;
+}
+.product-body{
+    min-height: 960px;
+}
+.add-cart-button{
+    height: 3rem;
+}
